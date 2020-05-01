@@ -12,6 +12,8 @@
 
 - **[Hello World](./hello-world) -** *Basic app to say hello to everyone* <br />
    `routes` `controllers` `i18n`
+- **[Vanilla JS simple Strapi blog](./simple-vanilla-js-strapi-blog) -** *Add and view blog posts using Strapi API and vanilla JS* <br />
+   `vanilla js` `blog`
 - **[Cheesecakes](./cheesecakes) -** *e-commerce application* <br />
    `routes` `controllers` `models` `services` `relations` `auth`
 - **[Gatsby Strapi Tutorial](./gatsby-strapi-tutorial) -** *Source code of the tutorial "[Building a static blog using Gatsby and Strapi](https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi)".* <br />

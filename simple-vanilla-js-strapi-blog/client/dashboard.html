@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+</head>
+<body>
+  <h2>Heyyyy</h2>
+  
+  <form class="new-article-form" style="display: flex; flex-direction: column; width: 300px;">
+    <label for="heading">Heading</label>
+    <input type="text" name="heading" id="heading">
+    <label for="description">Description</label>
+    <textarea name="description" id="description" cols="30" rows="10"></textarea>
+    <button type="submit">Post it!</button>
+    <div class="new-article-form__message-wrapper">
+      <p class="new-article-form__message"></p>
+    </div>
+  </form>
+</body>
+  <script src="dist/dashboard.bundle.js"></script>
+</html>
